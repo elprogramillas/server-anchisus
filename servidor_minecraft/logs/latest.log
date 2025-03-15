@@ -1,0 +1,43 @@
+[19:32:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:32:26] [ServerMain/INFO]: No existing world data, creating new world
+[19:32:28] [ServerMain/INFO]: Loaded 1337 recipes
+[19:32:28] [ServerMain/INFO]: Loaded 1448 advancements
+[19:32:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[19:32:28] [Server thread/INFO]: Loading properties
+[19:32:28] [Server thread/INFO]: Default game type: SURVIVAL
+[19:32:28] [Server thread/INFO]: Generating keypair
+[19:32:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:32:28] [Server thread/INFO]: Using epoll channel type
+[19:32:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:32:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:32:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:32:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:32:28] [Server thread/INFO]: Preparing level "world"
+[19:32:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:32:42] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:43] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:44] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:44] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:46] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:46] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:46] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:46] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:47] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:47] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:48] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:48] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:49] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:49] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:50] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:50] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[19:32:51] [Server thread/INFO]: Time elapsed: 9293 ms
+[19:32:51] [Server thread/INFO]: Done (22.853s)! For help, type "help"
+[19:33:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:35:26] [Server thread/INFO]: jesus[/127.59.219.233:34459] logged in with entity id 33 at (-586.5, 65.0, -654.5)
+[19:35:26] [Server thread/INFO]: jesus joined the game
+[19:36:12] [Server thread/INFO]: jesus lost connection: Disconnected
+[19:36:12] [Server thread/INFO]: jesus left the game
+[19:37:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
